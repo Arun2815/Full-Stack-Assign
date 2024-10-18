@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>about us</title>
+</head>
+<style>
+  header{
+    text-align: center;
+    border: solid;color: rgb(3, 45, 45);
+    background-color: aqua;
+    padding: 20px;
+  }
+  img{
+    margin-left:325px;
+    margin-top: 200px;
+    height: 200px;
+    
+
+
+  }
+  body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToRBDYevXcByyKr5OCDCEBg1Bri39Si_9e0g&s);
+    background-size: cover;
+    
+  }
+  p{
+    border: dashed;color: brown;
+    width: 350px;
+    height: 250px;
+    margin-left: 325px;
+    padding: 15px;
+    font-size: larger;
+    font-weight: 600;
+
+  }
+  
+
+
+</style>
+<body>
+    <header> ABOUT US</header>
+    <section>
+        <img src="arun image (1).jpg" alt="no image found">
+    </section>
+    <p>
+        NAME : ARUNNACHALAM <br>
+        AGE  : 23<br>
+        ADDRESS : NO 15, MANNIVAKKAM ,CHENNAI-<br>
+        QUALIFICATION : BTECH & MTECH IT<br>
+        LANGUAGE: ENGLISH ,TAMIL<br>
+        SKILLS : TECHNICAL LANGUAGE,JAVA ,PYTHON
+    </p>
+
+    
+      
+</body>
+</html>
